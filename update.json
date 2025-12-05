@@ -1,1 +1,20 @@
-{}
+[
+  {
+    "version": "0.0.2",
+    "date": "2025-05-06",
+    "changes": [
+      "Improved update system",
+      "Error handling enhanced"
+    ],
+    "update": {
+      "add": [
+        "main.js"
+      ],
+      "modify": [
+        "cmd/plugins/help.js",
+        "package.json"
+      ],
+      "delete": []
+    }
+  }
+]

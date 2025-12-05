@@ -8,11 +8,9 @@
     ],
     "update": {
       "add": [
-        "main.js"
       ],
       "modify": [
-        "cmd/plugins/help.js",
-        "package.json"
+        "cmd/plugins/help.js"
       ],
       "delete": []
     }

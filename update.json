@@ -1,18 +1,1 @@
-[
-  {
-    "version": "0.0.2",
-    "date": "2025-05-06",
-    "changes": [
-      "Improved update system",
-      "Error handling enhanced"
-    ],
-    "update": {
-      "add": [
-      ],
-      "modify": [
-        "cmd/plugins/help.js"
-      ],
-      "delete": []
-    }
-  }
-]
+[]
